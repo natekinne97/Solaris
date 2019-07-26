@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Solaris/static/css/main.9d31f50a.chunk.css",
+    "main.js": "/Solaris/static/js/main.f93e07cc.chunk.js",
+    "main.js.map": "/Solaris/static/js/main.f93e07cc.chunk.js.map",
+    "runtime~main.js": "/Solaris/static/js/runtime~main.df9a9333.js",
+    "runtime~main.js.map": "/Solaris/static/js/runtime~main.df9a9333.js.map",
+    "static/js/2.90d84b74.chunk.js": "/Solaris/static/js/2.90d84b74.chunk.js",
+    "static/js/2.90d84b74.chunk.js.map": "/Solaris/static/js/2.90d84b74.chunk.js.map",
+    "index.html": "/Solaris/index.html",
+    "precache-manifest.689e88353fe277bccb6c700a62cdafe4.js": "/Solaris/precache-manifest.689e88353fe277bccb6c700a62cdafe4.js",
+    "service-worker.js": "/Solaris/service-worker.js",
+    "static/css/main.9d31f50a.chunk.css.map": "/Solaris/static/css/main.9d31f50a.chunk.css.map"
+  }
+}
