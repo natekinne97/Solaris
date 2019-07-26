@@ -1,0 +1,15 @@
+#root{
+    heigth: 100%;
+}
+.book{
+    text-align: center;
+    display: block;
+    background: url('https://i.imgur.com/z1MRtd4.jpg') no-repeat;
+    background-size: 100%;
+    height: 50vh;
+}
+
+.book h3{
+    padding-top: 30vh;
+    color: rgb(0, 0, 0, 0.8);
+}

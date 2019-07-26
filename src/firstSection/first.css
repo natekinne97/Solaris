@@ -1,0 +1,15 @@
+.first-section{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background: url('https://i.imgur.com/UgSCO7x.png') no-repeat;
+    background-size: 100%;
+    height: 45vh;
+}
+
+
+
+.first-section h3{
+    margin-top: 35vh;
+}
